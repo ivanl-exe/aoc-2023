@@ -1,1 +1,1 @@
-Advent of Code inputs (which are unique for each user), should be pasted/downloaded into a file of the form: `day_{n}.txt`, where `{n}` represents the day, for each day - and so that called to the class `Day`, from module `day`, found in the python (.py) program for each day
+Advent of Code inputs (which are unique for each user), should be pasted/downloaded into a file of the form: `day_{n}.txt`, where `{n}` represents the day, for each day - and so that passed as an argument to the class `Day`, from module `day`, found in the python (.py) program for each day
